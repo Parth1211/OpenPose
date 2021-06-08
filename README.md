@@ -2,6 +2,7 @@
 Through this OpenPose model, we can detect some key body points/joints such as - shoulders, waist, elbows, head etc. This concept has proven to be very useful in auto video/image analysis using computers to detect human motion, pose etc.
 
 
+<img src="messi.jpg">
 I have implemented two models, which are made for the purpose mentioned above. Namely MPI model ( derived and trained from the dataset used from MPII - Max Plank Institute of Informatics) and COCO model ( derived and trained from the dataset used from COCO - Common Objects in Context). Both the models give high accuracy results, and just differ in the number of points they map on to the body. The MPI model maps 15 points, whereas the COCO model maps 3 extra, 18 points in total. As depicted in the images below - 
 
 
