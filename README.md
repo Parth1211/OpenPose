@@ -15,6 +15,6 @@ I have implemented two models, which are made for the purpose mentioned above. N
 
 
 ### Note -
-The below are the pretrained model weights that need to be downloaded, and placed in the appropriate folders in the folder 'pose'.
+The below are the pretrained model weights that need to be downloaded, and placed in the appropriate folders in the folder 'pose'.     
 COCO: http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/coco/pose_iter_440000.caffemodel                                
 MPI: http://posefs1.perception.cs.cmu.edu/OpenPose/models/pose/mpi/pose_iter_160000.caffemodel
